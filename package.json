@@ -1,18 +1,25 @@
 {
-  "name": "seti-frontend",
+  "name": "APi2",
   "version": "1.0.0",
-  "description": "Teste de frontend Seti :)",
-  "main": "index.html",
-  "scripts": {
-    "start": "parcel index.html --open",
-    "build": "parcel build index.html"
-  },
+  "description": "Created with CodeSandbox",
+  "main": "index.js",
   "dependencies": {
     "express": "^4.17.3"
   },
-  "devDependencies": {
-    "@babel/core": "7.2.0",
-    "parcel-bundler": "^1.6.1"
+  "devDependencies": {},
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": []
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hiara11/APi2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hiara11/APi2/issues"
+  },
+  "homepage": "https://github.com/hiara11/APi2#readme"
 }
